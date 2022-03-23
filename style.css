@@ -1,0 +1,52 @@
+
+    #canvas1{
+        border:7px solid red;
+    background-color: green;
+    color: green;
+    width: 1100px;
+    height: 560px;
+}
+#Px{
+    font-family: 'Roboto', sans-serif;
+}
+#Py{
+    font-family: 'Roboto', sans-serif;
+}
+#cvshlr{
+    background-color: green;
+    border-radius: 20px;
+    text-align: center;
+    height: 40px;
+}
+.mby{
+    background-color: green;
+    color: white;
+    margin: 5px;
+    float: right;
+}
+.mbx{
+    background-color: green;
+    color: white;
+    margin: 5px;
+    float: left;
+}
+#down{
+    margin-right: 490px;
+}
+#left{
+    margin-left:  490px;
+}
+body{
+    text-align: center;
+    background-color: lawngreen;
+}
+#settings{
+    margin-top: 60px;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+}
+#t{
+    font-size: small;
+}
